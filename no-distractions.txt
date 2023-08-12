@@ -1,0 +1,8 @@
+#------
+# The following domains will be blocked time-based to avoid distructions during worktimes
+#------
+0.0.0.0 tagesschau.de
+0.0.0.0 www.tagesschau.de
+0.0.0.0 www.amazon.de
+0.0.0.0 www.zdf.de
+0.0.0.0 www.youtube.com
